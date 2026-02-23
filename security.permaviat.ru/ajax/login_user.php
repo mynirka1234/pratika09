@@ -1,6 +1,5 @@
 <?php
 session_start();
-
 $SECRET_KEY = 'cAtwa1kKEy'; 
 
 if (!isset($_POST['token'])) {

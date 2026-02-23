@@ -75,7 +75,7 @@
                                     resetUI();
 								}
 							});
-						} else {
+						} else { 
 							alert("Токен не получен");
                             resetUI();
 						}

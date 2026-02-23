@@ -68,7 +68,7 @@
 					success: function (_data) {
 						location.reload();
 					},
-					error: function( ){
+					error: function(){
 						console.log('Системная ошибка!');
 					}
 				});
